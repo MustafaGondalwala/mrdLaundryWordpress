@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex information-10.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>

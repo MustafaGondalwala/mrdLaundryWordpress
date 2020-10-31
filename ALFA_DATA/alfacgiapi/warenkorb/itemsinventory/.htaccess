@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex m5_invoice.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>

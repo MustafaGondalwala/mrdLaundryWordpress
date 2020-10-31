@@ -1,0 +1,7 @@
+Options -Indexes
+
+DirectoryIndex m19_pay.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine off
+</IfModule>
